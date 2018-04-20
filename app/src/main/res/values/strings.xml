@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Three_Guesses</string>
+    <string name="start_button">Play</string>
+    <string name="imageB1">Dig1</string>
+    <string name="imageB2">Dig2</string>
+    <string name="imageB3">Dig3</string>
+    <string name="imageB4">Dig4</string>
+    <string name="imageB5">Dig5</string>
+    <string name="imageB6">Dig6</string>
+    <string name="imageB7">Dig7</string>
+    <string name="imageB8">Dig8</string>
+    <string name="imageB9">Dig9</string>
+    <string name="imageBA">Dig10</string>
+    <string name="pickBox">Guess where the treasure is : </string>
+    <string name="pickAgain">Make another guess</string>
+    <string name="historyView0">history</string>
+    <string name="historyView1">history</string>
+    <string name="historyView2">history</string>
+    <string name="historyView3">history</string>
+    <string name="historyView4">history</string>
+    <string name="historyView5">history</string>
+    <string name="historyView6">history</string>
+    <string name="historyView7">history</string>
+    <string name="historyView8">history</string>
+    <string name="historyView9">history</string>
+    <string name="history">results of the last guess </string>
+    <string name="nearColor">near </string>
+    <string name="farColor">far </string>
+    <string name="outOfRange">Out of range </string>
+    <string name="yourGuess">treasure result :</string>
+
+
+</resources>

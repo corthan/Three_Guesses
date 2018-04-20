@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="preGuessColor">#cccdcd</color>
+    <color name="nearColor">#10dc2f</color>
+    <color name="farColor">#b0ecf6</color>
+    <color name="outOfRangeColor">#fe4157</color>
+    <color name="alreadyGuessedColor">#560c15</color>
+</resources>
